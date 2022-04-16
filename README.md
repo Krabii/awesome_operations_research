@@ -23,3 +23,4 @@ A curated list of resources for Operations Research projects.
   * Job Shop Problem (JSP)
 * Datasets
 * Online Courses
+* Blogs
