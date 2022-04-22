@@ -2,13 +2,13 @@
 A curated list of resources for Operations Research projects.
 
 * Books
-  * Model Building in Mathematical Programming, H. Paul Williams
+  * [Model Building in Mathematical Programming, H. Paul Williams](https://www.thriftbooks.com/w/model-building-in-mathematical-programming--4th-edition_h-paul-williams/470378/item/)
   * [Integer Programming, Laurence, A. Wolsey](https://www.thriftbooks.com/w/integer-programming_laurence-a-wolsey/336504/item/)
-  * Introduction to Algorithms, Cormen et. others
+  * [Introduction to Algorithms, Cormen et. others](https://www.thriftbooks.com/w/introduction-to-algorithms_clifford-stein_thomas-h-cormen/254823/)
 * Solvers/Software
   * CPLEX
   * XPRESS
-  * GUROBI
+  * [GUROBI](https://www.gurobi.com/)
   * CBC
   * SCIP
   * ORTools
