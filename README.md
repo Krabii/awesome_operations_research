@@ -18,12 +18,15 @@ A curated list of resources for Operations Research projects.
 * Links
   * [Animated Algorithms for the Travelling Salesman Problem (TSP)](https://stemlounge.com/animated-algorithms-for-the-traveling-salesman-problem/)
 * Problems
-  * Travelling Salesman Problem (TSP)
+  * The Assignment Problem
+  * The Knapsack Problem
+  * The Set Covering Problem
+  * The Travelling Salesman Problem (TSP)
   * Vehicle Routing Problem (VRP)
   * Job Shop Problem (JSP)
   * Maximum Cardinality Matching
-  * Facility Location
-  * Lot-Sizing
+  * Uncapacitated Facility Location
+  * Uncapacitated Lot-Sizing
 * Datasets
 * Online Courses
 * Blogs
