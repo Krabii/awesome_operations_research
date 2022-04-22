@@ -11,7 +11,7 @@ A curated list of resources for Operations Research projects.
   * [GUROBI](https://www.gurobi.com/)
   * CBC
   * SCIP
-  * ORTools
+  * [OR-Tools](https://developers.google.com/optimization/)
   * LocalSolver
   * Optaplanner
   * Scipy python library
