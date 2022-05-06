@@ -6,15 +6,17 @@ A curated list of resources for Operations Research projects.
   * [Integer Programming, Laurence, A. Wolsey](https://www.thriftbooks.com/w/integer-programming_laurence-a-wolsey/336504/item/)
   * [Introduction to Algorithms, Cormen et. others](https://www.thriftbooks.com/w/introduction-to-algorithms_clifford-stein_thomas-h-cormen/254823/)
 * Solvers/Software
-  * CPLEX
-  * XPRESS
-  * [GUROBI](https://www.gurobi.com/)
-  * [CBC](https://github.com/coin-or/Cbc)
-  * [SCIP](https://www.scipopt.org/)
-  * [OR-Tools](https://developers.google.com/optimization/)
-  * LocalSolver
-  * Optaplanner
-  * Scipy python library
+  * Open-Source
+   * [CBC](https://github.com/coin-or/Cbc)
+   * [SCIP](https://www.scipopt.org/)
+   * [OR-Tools](https://developers.google.com/optimization/)
+   * Optaplanner
+   * Scipy python library
+  * Propietary
+   * CPLEX
+   * XPRESS
+   * [GUROBI](https://www.gurobi.com/)
+   * LocalSolver
 * Links
   * [Animated Algorithms for the Travelling Salesman Problem (TSP)](https://stemlounge.com/animated-algorithms-for-the-traveling-salesman-problem/)
 * Problems
