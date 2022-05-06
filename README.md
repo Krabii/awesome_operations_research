@@ -9,8 +9,8 @@ A curated list of resources for Operations Research projects.
   * CPLEX
   * XPRESS
   * [GUROBI](https://www.gurobi.com/)
-  * CBC
-  * SCIP
+  * [CBC](https://github.com/coin-or/Cbc)
+  * [SCIP](https://www.scipopt.org/)
   * [OR-Tools](https://developers.google.com/optimization/)
   * LocalSolver
   * Optaplanner
