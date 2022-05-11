@@ -7,6 +7,7 @@ A curated list of resources for Operations Research projects.
   * [Introduction to Algorithms, Cormen et. others](https://www.thriftbooks.com/w/introduction-to-algorithms_clifford-stein_thomas-h-cormen/254823/)
 * Solvers/Software
   * Open-Source
+   * [HIGHS ](https://ergo-code.github.io/HiGHS/index.html)
    * [CBC](https://github.com/coin-or/Cbc)
    * [SCIP](https://www.scipopt.org/)
    * [OR-Tools](https://developers.google.com/optimization/)
